@@ -1,0 +1,9 @@
+## Bin: compiled the output files
+bin/
+
+## Obj: temporary build files
+obj/
+
+
+## Program Information 
+ProgramInformation
